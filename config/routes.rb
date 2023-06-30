@@ -6,5 +6,5 @@ Rails.application.routes.draw do
   get 'about', to: 'pages#about'
 
   # Defines the root path route ("/")
-  root    "pages#home"
+  root "pages#home"
 end
