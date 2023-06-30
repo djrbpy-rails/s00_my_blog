@@ -33,3 +33,8 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+.idea/misc.xml
+.idea/modules.xml
+.idea/s00_my_blog.iml
+.idea/vcs.xml
+.idea/workspace.xml
