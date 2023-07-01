@@ -8,5 +8,5 @@
 
 
 10.times do |x|
-  Post.create(title: "Title #{x}", body: "this is post ##{x}'s contents...'")
+  Post.create(title: "Title #{x+1}", body: "this is post ##{x}'s contents...'")
 end
